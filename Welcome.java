@@ -15,5 +15,7 @@ public class Welcome
     }
 }
 
+/** 
 * Program ini adalah pengenalan pertama terhadap bagaimana sebuah class dideklarasikan, dan bagaimana pemrograman dari bahasa java dilakukan.
 * Program ini akan menghasilkan output "Welcome to Core Java!" dengan dilanjut output "=" sebanyak 8 kali pada baris selanjutnya.
+*/
