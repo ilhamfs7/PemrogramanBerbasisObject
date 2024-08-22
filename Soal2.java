@@ -5,3 +5,7 @@ public class Soal2 {
         System.out.println(s);
     }
 }
+/**
+* Program ini adalah representasi teknik lain dalam bahasa pemrograman mengenai syntax if-else, yaitu Ternary.
+* Ternary adalah salah satu teknik yang lebih singkat bila dibandingkan dengan if-else.
+*/
