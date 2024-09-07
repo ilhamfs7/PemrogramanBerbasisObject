@@ -35,3 +35,5 @@ public class Prak3Soal3 {
         }
     }
 }
+
+// Program ini akan melakukan sebuah operator matematika dengan menyesuaikannya terhadap inputan operator yang dilakukan oleh user
