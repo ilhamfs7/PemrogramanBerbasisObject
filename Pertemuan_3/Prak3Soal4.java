@@ -19,3 +19,5 @@ public class Prak3Soal4 {
         System.out.print("Gaji kamu bulan ini :" + gaji);
     }
 }
+
+// Program ini akan memberikan hasil gaji total akhir dengan ketentuan ketentuan yang sudah diberikan pada persoalannya
