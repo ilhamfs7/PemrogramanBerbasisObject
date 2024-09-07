@@ -37,3 +37,5 @@ public class MainMakanan {
 
     }
 }
+
+// Program ini adalah contoh penerapan enkapsulasi yang dilakukan dengan menerapkan bagaimana sebuah sistem beli makanan dilakukan. Selain MainMakanan.java; didukung juga dengan program lainnya yaitu MenuMakanan.java; Pembeli.java; Penjual.java
