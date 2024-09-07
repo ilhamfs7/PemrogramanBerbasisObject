@@ -32,3 +32,5 @@ public class Prak3Soal2 {
         System.out.println("====================");
     }
 }
+
+// Program ini akan memberikan sebuah output layaknya sebuah tabel dengan memanfaatkan fungsi printf yang sudah lazim ditemui pada bahasa C
