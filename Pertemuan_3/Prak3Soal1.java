@@ -15,3 +15,6 @@ public class Prak3Soal1 {
         }
     }
 }
+
+// Program ini meminta kita untuk menginputkan sebuah kata, dan setelah inputan kita lakukan, program akan memisahkan kata per kata dengan memerhatikan karakter
+// spesial dan spasi yang terkandung pada inputan user, lalu menghitung kata per katanya berdasarkan karakter spesial dan spasi tersebut
