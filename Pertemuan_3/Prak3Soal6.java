@@ -14,3 +14,6 @@ public class Prak3Soal6 {
         System.out.print(a.multiply(b));
     }
 }
+
+// Program ini menerapkan bagaimana variable bertipe data BigInteger dikenakan operasi layaknya variable tipe data integer dengan menggunakan fungsi yang ada pada 
+// tipe data BigInteger itu sendiri
