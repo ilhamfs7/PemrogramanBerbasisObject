@@ -15,3 +15,5 @@ public class Prak3Soal5 {
         }
     }
 }
+
+// Program ini menerapkan sebuah sistem buka tutup jalan dengan mengandalkan sebuah operasi matematika yang dikenakan pada 4 plat nomor yang berbeda
