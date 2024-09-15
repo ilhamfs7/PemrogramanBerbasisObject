@@ -29,3 +29,5 @@ public class Sales {
         System.out.print(df.format(product.getPrice()));
     }
 }
+
+//program ini melakukan algoritma untuk operasi produk, seperti penjualan, penambahan, dan pembaruan dengan mengandalkan fungsi yang terdapat pada product.java
