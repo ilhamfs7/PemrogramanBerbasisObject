@@ -24,3 +24,5 @@ public class Inventori {
         beli.pengadaan();
     }
 }
+
+//Program inventori yang memanggil fungsi yang terdapat pada class Barang untuk digunakan dalam menjalankan program yang ada.
