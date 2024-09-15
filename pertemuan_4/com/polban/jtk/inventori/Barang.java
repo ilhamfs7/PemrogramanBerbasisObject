@@ -17,3 +17,4 @@ public class Barang {
     }
 }
 
+//Program Barang yang membuat sebuah variabel stok tidak dapat diubah nilainya diluar dari class Barang ini.
