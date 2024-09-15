@@ -19,3 +19,5 @@ public class MainProSales2 {
 
     }
 }
+
+//Program yang sama seperti MainProSales.java, tetapi pada versi ini, menggunakan saleslibrary.jar untuk dapat mengeksekusi program dari cmd.
